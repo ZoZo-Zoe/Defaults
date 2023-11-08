@@ -1,4 +1,4 @@
-﻿namespace Defaults.Classes;
+﻿namespace Defaults;
 
 public struct Result<T>
 {

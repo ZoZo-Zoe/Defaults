@@ -5,7 +5,7 @@ using System.Text;
 using System.Text.Json;
 using System.Threading.Tasks;
 
-namespace Defaults.Classes;
+namespace Defaults;
 
 public class JsonConvertable<T>
 {
